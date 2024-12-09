@@ -24,6 +24,7 @@ Here is the core concepts, and the basic ideas behind Aider I will be discussing
 
 ### Experience with Aider
 
+- Add the required-only files to the Aider workspace
 - After using Aider for a while, what I have learned
   - Aider 近乎是結構化文字資訊的專家：
     - Code understanding：
